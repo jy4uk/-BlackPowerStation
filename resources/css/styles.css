@@ -1,0 +1,209 @@
+*, .navbar{
+    font-family: 'Quicksand', sans-serif !important;
+}
+
+body{
+    background-color: #3b7b7e !important;
+    padding-top: 120px;
+    color: white !important;
+}
+
+.navbar{
+    display: none;
+}
+
+.navbar-bg-color {
+    background-color: #293131 !important;   
+    opacity: 0.8;
+}
+
+
+.nav-link {
+    font-family: 'Comfortaa', cursive;
+    color: white ;
+}
+
+#resume {
+    color: #46c1f0 !important;
+    font-weight: bold;
+}
+
+#resume:hover {
+    color: yellow !important;
+}
+
+
+#hello-world{
+    font-weight: bold;
+    color: white;
+    margin-bottom: 1em;
+}
+
+#jamesyang{
+    color:#9bc9db;
+}
+
+.section-head{
+    color: #9bc9db;
+}
+
+#i-code {
+    color: rgb(155, 155, 155);
+}
+
+.intro-statement, .intro-paragraph{
+    padding-bottom: 5rem;
+    margin-bottom: 3em;
+}
+
+.intro-statement{
+    padding-bottom: 4rem;
+}
+
+.orange{
+    color: ##9bc9db;
+}
+
+.development{
+    font-weight: bold;
+    color: #9bc9db !important;
+}
+
+
+.button, .btn {
+    background-color: #9bc9db!important;
+    border: none;
+    padding: 15px 28px;
+    text-align: center;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-size: 16px;
+    color: white;
+    border-radius: 10px;
+}
+
+.button:hover {
+    background-color: #9bc9db;
+    color: yellow;
+}
+
+.btn:hover {
+    color: rgb(18, 19, 92) !important;
+}
+
+.about{
+    padding-top: 10rem;
+}
+
+.section-head{
+    padding-bottom: 1rem;
+}
+
+.about-me, #my-projects{
+    padding-bottom: 5px;
+}
+
+.link{
+    font-weight: bold;
+}
+
+.uva{
+    font-weight: bold;
+    font-style: italic;
+}
+
+#mypic {
+    width: 150%;
+    border-radius: 8px;
+    box-shadow: 10px 10px 5px #0f2133 ;
+}
+
+#technologies {
+    padding-left: 2rem;
+    color: #46c1f0 !important;
+    font-weight: bold;
+    list-style-type: none;
+}
+
+.project-title{
+    font-weight: bold;
+    color:#9bc9db;
+}
+
+.btn{
+    color: floralwhite !important;
+}
+
+.projects {
+    padding-top: 10rem;
+}
+
+.github {
+    font-weight: bold;
+    font-style: italic;
+}
+
+#project-descriptor {
+    padding-bottom: 3rem;
+}
+
+.contact{
+    padding-top: 10rem;
+}
+
+#job-title{
+    padding-right: 6rem;
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+
+.jobname{
+    text-decoration: underline;
+}
+
+#job-location{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+footer {
+    padding-top: 10rem;
+    text-align: center;
+    font-size: small;
+}
+
+#email-me-btn {
+    padding-top: 8rem;
+}
+
+.experience{
+    padding-top: 10rem;
+}
+
+#email {
+    font-size: x-large;
+}
+
+.yellow-warning{
+    font-weight: bold;
+    color: yellow;
+}
+
+.space-button{
+    padding-top: 1.6rem;
+}
+
+
+
+#navbar {
+    position: fixed;
+    
+}
+
+.sideways-left {
+    bottom: 0px;
+    z-index: -1;
+    position: fixed;
+    transform: rotate(90deg);
+}
+
